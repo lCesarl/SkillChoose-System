@@ -1,0 +1,1 @@
+dofile("locale/germany/quest/skillchoose.lua")

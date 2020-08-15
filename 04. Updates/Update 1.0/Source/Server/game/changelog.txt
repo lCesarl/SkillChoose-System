@@ -1,0 +1,3 @@
+(Cesar) - 05.03.2020
+Fixed:
+• If you select a skill, you don't get skillpoints. (fixed)

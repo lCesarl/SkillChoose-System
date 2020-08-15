@@ -1,0 +1,11 @@
+skillchoose_text	Wähle deine Lehre
+skillchoose_cancel	Abbruch
+skillchoose_warrior1	Körper
+skillchoose_warrior2	Mental
+skillchoose_ninja1	Nahkampf
+skillchoose_ninja2	Fernkampf
+skillchoose_sura1	Waffensura
+skillchoose_sura2	Magiesura
+skillchoose_shaman1	Drachenschami
+skillchoose_shaman2	Heilschami
+skillchoose_wolfman1	Instinkt
